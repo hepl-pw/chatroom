@@ -1,4 +1,4 @@
 # chatroom
 A small educationnal demo of Laravel/Pusher/Vue
 
-http://www.domy.be/projetsweb/chatroom.zip -> à renommer chatroom.mp4
+[la vidéo](https://youtu.be/6Qf6WBRygQw)
